@@ -35,7 +35,7 @@ LogiSync is an interactive web application that simulates various supply chain l
 
 ## Deployment
 
-This app is deployed on Streamlit Community Cloud. You can access it at: [https://logisync-supplychain.streamlit.app](https://logisync-supplychain.streamlit.app)
+This app is deployed on Streamlit Community Cloud. You can access it at: [https://logisync-simulations-4spztvxccp6jrkntdbxefg.streamlit.app/)
 
 ## Run Locally
 
